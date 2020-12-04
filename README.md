@@ -6,7 +6,7 @@ User's eye to be drawn to race car icon - want to select it to see msg.  Should 
 copy URL of the html file in github you want to view
 On page in (1) append/paste the url of the file 
 
-Expect ==>  you should see the html as a formatted document
+Expect ==>  you should see the html as a formatted document, 
 Actual ==>  works for me.
 
 
@@ -18,5 +18,5 @@ copy the url
 go here in your browser -->    https://htmlpreview.github.io/
 append/paste the url to this   ^^
 
-Expect ==>  you should see the html file open as a formatted document
+Expect ==>  you should see the html file open as a formatted document, 
 Actual ==>  works for me
